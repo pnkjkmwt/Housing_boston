@@ -1,0 +1,9 @@
+Model Output:
+
+Linear Regression
+ MSE: 17.124
+ RMSE: 4.14
+ 
+DecisionTreeRegressor
+ MSE: 8.05
+ RMSE: 2.84
