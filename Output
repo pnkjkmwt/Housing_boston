@@ -3,7 +3,13 @@ Model Output:
 Linear Regression
  MSE: 17.124
  RMSE: 4.14
+
+Decision Tree Regressor
+MSE: 11.03
+RMSE: 3.32
+
  
-DecisionTreeRegressor
+Random Forest Regressor
  MSE: 8.05
  RMSE: 2.84
+
